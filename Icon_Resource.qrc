@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/Main">
+        <file>C:/Users/HP/Downloads/cropped_image.png</file>
+        <file>C:/Users/HP/Downloads/Icon.png</file>
+        <file>C:/Users/HP/Downloads/icon_small.png</file>
+        <file>C:/Users/HP/Downloads/icon_large.png</file>
+    </qresource>
+    <qresource prefix="/ICO">
+        <file>C:/Users/HP/Downloads/Icon.ico</file>
+    </qresource>
+</RCC>
